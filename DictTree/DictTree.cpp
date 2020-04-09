@@ -233,6 +233,8 @@ int main() {
 	vector<string> dict = s.getDict(root);
 	printVector(dict);
 
+	//TODO: release memeory
+
 	return 0;
 }
 
